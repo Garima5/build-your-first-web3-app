@@ -4,7 +4,7 @@ Lab for Toronto Tech Week Workshop - Build your first Web3 app
 # 🗳️ SimpleVote — Build & Deploy Your First On-Chain App
 
 > A hands-on Web3 workshop built for Toronto Tech Week 2026
-> Hosted by **Garima** · [Deep Tech Studios](https://deepteching.com) · 🥭 Mango Community
+> Hosted by **Garima** · [Deep Tech Studios](https://deepteching.com) · 🧁 Tiramisoo Community
 
 ---
 
@@ -548,7 +548,7 @@ You just deployed a real smart contract to the Ethereum blockchain. Here's where
 - [Sepolia Etherscan](https://sepolia.etherscan.io) — Explore your transactions
 
 **Join the Community:**
-🥭 **Mango** — A community for curious, technical, creative people who want to go deep in Web3 and AI. Workshops, dinners, build nights, heritage trips and more.
+**Tiramisoo** — A community for curious, technical, creative people who want to go deep in Web3 and AI. Workshops, dinners, build nights, heritage trips and more.
 
 *No hype. No fluff. Just builders.*
 
@@ -558,6 +558,6 @@ You just deployed a real smart contract to the Ethereum blockchain. Here's where
 
 Built with ❤️ by **Garima** for Toronto Tech Week 2026
 
-[Deep Tech Studios](#) · [Twitter/X](#) · [LinkedIn](#)
+[Deep Tech Studios](https://www.deeptechink.ca) · [Twitter/X](https://x.com/GarimaA60302335) · [LinkedIn](#)
 
-> *"The people in this room are exactly who Mango is for."* 🥭
+> *"The people in this room are exactly who Tiramisoo is for."* 🥭
